@@ -4,7 +4,9 @@ Frontend Dev School is a **modern, responsive school website frontend** designed
 The project focuses on UI structure, role-based dashboards, and management features for a real-world school system.
 
 🔗 **Live Website:**  
-<PASTE GITHUB PAGES LINK HERE>
+
+https://deveshrdev98-ship-it.github.io/School-Website/
+
 
 ---
 
